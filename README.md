@@ -1,16 +1,16 @@
-# Stock-Market Scraper API
+# Stock Market Scraper API
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Stock-Market Scraper](https://oxylabs.io/products/scraper-api/web/stock-market-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Stock-Market website effortlessly. This brief guide explains how an Stock-Market Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Stock Market Scraper](https://oxylabs.io/products/scraper-api/web/stock-market-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any stock market effortlessly. This brief guide explains how a Stock Market Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Stock-Market results by providing your own URLs to our service. We can return the HTML for any Stock-Market page you like.
+You can get stock market results by providing your own URLs to our service. We can return the HTML for any stock market page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Stock-Market page.
+The example below illustrates how you can get HTML of [finance.yahoo](https://finance.yahoo.com/quote/ym%3df?p=ym%3d) web page.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Stock-Market Scraper, you can seamlessly harvest public data from any Stock-Market web page. Gather the necessary stock information, such as stock prices, trading volumes, or company financial reports, to understand the market trends and get an edge over your competitors. If you need any further assistance, feel free to reach out to our support team through live chat or email us at hello@oxylabs.io.
+With our Stock Market Scraper, you can seamlessly harvest public data from any stock market web page. Gather the necessary stock information, such as stock prices, trading volumes, or company financial reports, to understand the market trends and get an edge over your competitors. If you need any further assistance, feel free to reach out to our support team through live chat or email us at hello@oxylabs.io.
